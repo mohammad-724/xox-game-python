@@ -1,4 +1,4 @@
-live link url: 
+live link url: https://mohammad-724.github.io/xox-game-python/
 
 # ❌ XOX Game (Tic-Tac-Toe) ⭕
 
